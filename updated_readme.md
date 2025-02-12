@@ -5,6 +5,8 @@
 # 0.7 - how to use facebook group
 # 0.8 - how to get best out of this course
 
+
+# Milestone 1 ==========================================================================
 # 1.1 - Explore VSCode and what is HTML
 # 1.2 - Creating paragraphs, Text formatting (b,i, strong, em)
 # 1.3 - HTML Text: Headings, small, and inline vs block (div, span)
@@ -56,6 +58,8 @@
 # 6_5.2 - Position - Flow related - Static/Relative/Absolute, Scroll related - Fixed/Sticky - very very important concep
 # 6_5.3 - z-index, position, pseudo - ::after/::first-letter/::first-line/::selection/::placeholder - imortant
 
+
+# Milestone 2 ===================================================================
 # 7.1 - layout, measuring units - absolute vs relative, should watch frequently
 # 7.2 - flex, flex-direction, flex-wrap, flex-end, no-wrap, wrap-reverse, flex-grow
 # 7.3 - center align
@@ -108,6 +112,8 @@
 # 11_5.3 - important to watch frequently
 # to know html tag - tutorialrepublic.com - should bookmark
 
+
+# Milestone 3 ==========================================================================
 # 12.1 - tailwind intro, dark mode, break point
 # 12.2 - font/text/background/border style
 # 12.3 - display/overflow/width/height/padding/margin/space between
@@ -149,7 +155,9 @@
 # 15_5.2 - important speech, 
 # 15_5.1 - intro js, node, VSCode, debug, json file
 
-# 4
+
+# Milestone 4 ============================= Hello JavaScript =============================😊
+# Milestone 4 ============================= Hello JavaScript =============================😊
 
 # 16.1 - JS intro, how to run
 # 16.2 - different numbers/operators, basic algebra/math for programming
@@ -257,7 +265,9 @@
 # 23_5.3 - important speech
 
 
-# 5 
+
+# Milestone 5 ======================= Integrate Javascript ========================😊
+# Milestone 5 ======================= Integrate Javascript ========================😊
 
 # 24.1 -
 # 24.9 -
@@ -324,7 +334,9 @@
 # 29_5.2 - typeof, how to check typeof array - Array.isArray(), isNaN(56) = false,
 # wat javascript, javascript undefined check...
 
-# 6
+
+# Milestone 6 =========================== Intermediate JavaScript ==========================😊
+# Milestone 6 =========================== Intermediate JavaScript ==========================😊
 
 # 30.1. var let constant
 # 30.2. default parameter
@@ -413,7 +425,9 @@
 # sudden distraction makes boring your continuous focus - like reading/coding for hours will be boring if you suddenly look at your phone which needs 12 minutes to return your focus
 # make it a habit - do whatever you do at the fullest your attention
 
-# 7
+
+# Milestone 7 ====================== introduction to sipmple react =================================😊
+# Milestone 7 ====================== introduction to sipmple react =================================😊
 
 # 37.1
 # 37.8
@@ -487,6 +501,10 @@
 3. fetch, then, then
 4. check data found - <h2>Bottles here: {bottles.length}</h2>
 
+
+# Milestone 8 ================ React Router & State Management =====================================😊
+# Milestone 8 ================ React Router & State Management =====================================😊
+
 # how to show data dynamically - V44.4-07:00 to v44.5-01:20
 # how to change name if duplicate v44.6 - 04:00
 
@@ -535,8 +553,10 @@
 
 # DISM /Online /Cleanup-Image /RestoreHealth
 
-# 9 - MILESTONE NINE -----------------------------
-# 9 - MILESTONE NINE -----------------------------
+
+
+# Milestone 9 ===================== React Authentication ===================================😊
+# Milestone 9 ===================== React Authentication ===================================😊
 
 const Main = () => {
     return(
@@ -589,11 +609,15 @@ export default Main;
 # 52_5.8 - first time - deploy firebase - very important - should follow, practice - travel guru
 # 52-6.rewards - 
 
-# 53_5.1 - very important concep, first video of expressjs - install, very very important - first video of create server,  
+# 53_5.1 - very important concep, first video of expressjs - install, very very important - first video of create server  
 # expressjs.com
 # 53_5.2 - npm init -y, express server ready, concep - why nodemon not node, get data from server, get data using id - req.params.id 
 # 53_5.3 - server - client connection, CORS policy, middleware, params.id, load data using get API
 
+
+
+# Milestone 10 ===================== Backend & Database ======================================😊
+# Milestone 10 ===================== Backend & Database ======================================😊
 
 # 1. npm create vite@latest name-of-your-project -- --template react
 # 2. npm install react-router-dom # always need this!
@@ -634,8 +658,6 @@ export default Main;
 
 # 10 - MILESTONE TEN -----------------------------
 # 10 - MILESTONE TEN -----------------------------
-
-
 # 54.2 - very important
 # 54.3 - 12:50 When Node Shouldn't use 
 # 54.4 - Node Js - runtime means - JS runs in server
@@ -695,8 +717,10 @@ export default Main;
 # 57_5.2 - tanstack query - first video - very important ❤︎ 🌼 ✔︎
 # 57_5.3 - use tanstack query, check browser's network tab for error, optional chaining - important concep, spinner, different usecase of tanstack query
 
-# 13
 
+
+# Milestone 12 ====================== Final Project =================================😊
+# Milestone 12 ====================== Final Project =================================😊
 # reactrouter.com - tutorial
 1. npm create vite@latest name-of-your-project -- --template react
 2. npm install react-router-dom
@@ -868,4 +892,47 @@ export default Main;
 # 71.9 - to build a project - should  check
 # - jerins-parlour-website
 # - sudio3t.com
+
+
+# Milestone 13 ==================== Next JS ======================================😊
+# Milestone 13 ==================== Next JS ======================================😊
+# 76.1 - react vs next js - should watch again
+# 76.2 - install nextjs, folder structure etc
+# 76.3 - about different file-folders, folder structure, globals.css - global/full app css, favicon, title/metadata
+# 76.4 - route, folder/components structure
+# 76.5 - navbar, navigation, active link, use client
+# 76.6 - nested routing, dynamic route - have to do
+# 76.7 - route groups - to organize different route, different layout- without navbar/footer, nested layout, conditional layout
+# 76.8 - dynamic parameter, params  
+# 76.9 - network throttle - slow/fast, loading spinner, 404/error page  
+# 76.10 - middleware, like private route, cookie set manually
+
+# 77.1 - rendering - important concep
+# 77.2 - SEO, performance, what is hydretion, ssr-ssg, very important concep
+# 77.3 - data render - server side, fetch, map, slice, post api
+# 77.4 - dynamic route - using id single data fetch
+# 77.5 - search, very important for SEO, image 
+# 77.6 - styling - css
+
+# 78.1 - details of metadata, dynamic meta tag, very important for SEO
+# 78.2 - image optimization, font use 
+# 78.3 - Caching and Revalidating, current time display
+# 78.4 - loading spinner
+# 78.5 - redirect to several pages
+# 78.6 - environment variables
+# 78.7 - deploy
+# 78.8 - deploy in different style - Export Static HTML Page with Build
+
+# 79.1 - create api, CRUD, set cookies
+# 79.2 - authentication setup
+# next-auth.js.org
+# 79.3 - login with email-password
+# 79.4 - following, session
+# 79.5 - following, user role
+# picsum.photos
+# 79.6 - log out, redirect after log in/out
+# 79.7 - sign up/registration, install mongodb 
+# 79.8 - set user roll, user create in database, login
+# 79.9 - google login
+# 79.10 - github login
 

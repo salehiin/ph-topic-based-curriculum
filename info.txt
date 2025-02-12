@@ -1,0 +1,60 @@
+1. map - 31.3/4, 38.8
+2. callback function - 32.7, 
+3. fetch/data render - 33.3/4/5, 34.3, 35.5, 39.5, 39.6, 42.2, 42.4, 45.4, 45.6, 47.3, 47.5, 52.9, 52_5.5, 53_5.2, 53_5.3
+4. catch-error / async await - 33.9, 35.5
+5. search functionality - 34.3,
+6. display first 5 data only - 34.4
+7. show all button functional details - 34.6
+8. show details button, id wise data find, modal - 34.7
+8. id wise data find - 34.7
+8. modal - 34.7
+9. two function in same button - 34.8
+11. dynamic data show on modal - 34.8
+12. ternary - 34.8
+13. promise - 35.5
+14. setTimeout - 35.6
+15. try-catch - error handle - 35.8, 42.8
+16. all about local storage - 36_5, 47.7
+17. props - 38.4, 38.6, 40.5, 46.6
+18. destructuring - 38.5, 38.6, 39.3
+19. data rendering - 38.8
+20. useState - state management - 39.3/4, 39.5, 40.1, 40.4/5, 42.2
+21. useEffect - 39.5, 40.1, 42.2
+22. spread operator[...] - 40.6
+23. prop drilling - watch frequently - 40.8, 46.7
+24. propTypes - 42.3
+25. react router intro - 45.1
+26. nested route - 45.2
+27. dynamic routing - 45.5, 52.9
+28. useNavigate - 45.7
+29. useLocation - 45.8
+30. form - 46.1
+31. useParams - 52_5.6, 53_5.2, 53_5.3
+32. setLoading - 52_5.7
+
+
+
+
+# - 33 module is very important
+# - 34 module is very important
+# - 36_5 module is very important
+# - 41.3 - 41.9 all about data and etc. very important
+# - 46 - all about form
+# - 46 module is very important
+# - 55, 56, 56_5 - CRUD
+# - 57_5.1 - axios - first video - very important
+# - 57_5.2 - tanstack query - first video - very important
+# - 57_5.3 - use tanstack query, check browser's network tab for error, optional chaining - important concep, spinner, different usecase of tanstack query
+
+
+# 40.2 - data show, get single item data from data collections(props, map), key, external css, destructuring
+# 40.3 - recap - very important to understand previous video, propTypes error handle
+# 47.8 - selected data-applied jobs display in applied jobs page, no need different component-can loop in same component with new element-MAP, data filter
+# 52_5.6 - data display in details page - useParams, important concep - error handle(03:15), private route - if not logged in then navigate to login
+# 52_5.7 - important concept - setLoading(), after login auto navigate to the desired location - useLocation(), firebase environment variable, important concep - console.log environment variable, git status
+# 53_5.1 - very important concep, first video of expressjs - install, very very important - first video of create server
+# 53_5.3 - server - client connection, CORS policy, middleware, params.id, load data using get API
+# 54.6 backend & frontend setup ready with bothend data show"
+# 54.7-8 form ready, using form data send from client side to server side dynamically with recap
+# 55.2 - backend index.js configure - &conceptual, backend - frontend connect
+# 55.3 - data send to client side to serverside, serverside to database - create operation of CRUD
