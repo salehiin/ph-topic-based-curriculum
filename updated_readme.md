@@ -897,26 +897,32 @@ export default Main;
 # Milestone 13 ==================== Next JS ======================================😊
 # Milestone 13 ==================== Next JS ======================================😊
 # 76.1 - react vs next js - should watch again
+- firebase, react router dom, individual backend server, express js || app router, next auth, Built in api route - last 1 minute(SSR)
 # 76.2 - install nextjs, folder structure etc
+- nextjs.org/docs - documentation
+
 # 76.3 - about different file-folders, folder structure, globals.css - global/full app css, favicon, title/metadata
-# 76.4 - route, folder/components structure
+# 76.4 - route, folder/components structure - to clear different route, like; home, about, dashboard
 # 76.5 - navbar, navigation, active link, use client
-# 76.6 - nested routing, dynamic route - have to do
-# 76.7 - route groups - to organize different route, different layout- without navbar/footer, nested layout, conditional layout
-# 76.8 - dynamic parameter, params  
-# 76.9 - network throttle - slow/fast, loading spinner, 404/error page  
-# 76.10 - middleware, like private route, cookie set manually
+# 76.6 - nested routing, params, dynamic route - id wise show details - have to do
+# 76.7 - route groups - to organize different route, different layout- without navbar/footer, nested layout, conditional layout - important to create dashboard
+# 76.8 - dynamic parameter, params, more than one dynamic parameter - catch all segments/routes
+# 76.9 - network throttle - slow/fast, loading spinner, 404/error page, skeleton loading
+# 76.10 - middleware, like private route, cookie set manually, token like jwt, (to go a protected route - permission to go, have to logged in, should have token, should have authority) - very very impoortant
 
-# 77.1 - rendering - important concep
-# 77.2 - SEO, performance, what is hydretion, ssr-ssg, very important concep
-# 77.3 - data render - server side, fetch, map, slice, post api
+# 77.1 - rendering - performance/seo - important concep
+# 77.2 - SEO, performance, what is hydration, csr-ssr-ssg - comparison, very important concep
+# CSR - Client Side Rendering
+# SSR - Server Side Rendering
+# SSG - Static Site Generation
+# 77.3 - data render - server side, fetch, map, slice, post api, reusable function
 # 77.4 - dynamic route - using id single data fetch
-# 77.5 - search, very important for SEO, image 
-# 77.6 - styling - css
+# 77.5 - search, very important for SEO, image, error handle, try catch, error handle
+# 77.6 - styling, styles.modules - css
 
-# 78.1 - details of metadata, dynamic meta tag, very important for SEO
+# 78.1 - details of metadata, dynamic meta tag, very important for SEO 🤓
 # 78.2 - image optimization, font use 
-# 78.3 - Caching and Revalidating, current time display
+# 78.3 - Caching and Revalidating, current time display, use case of cache - important to watch frequent
 # 78.4 - loading spinner
 # 78.5 - redirect to several pages
 # 78.6 - environment variables
@@ -927,8 +933,8 @@ export default Main;
 # 79.2 - authentication setup
 # next-auth.js.org
 # 79.3 - login with email-password
-# 79.4 - following, session
-# 79.5 - following, user role
+# 79.4 - following, session, if login show logout button
+# 79.5 - following, change session expiery, user role define, user info(name, role, image) display in UI
 # picsum.photos
 # 79.6 - log out, redirect after log in/out
 # 79.7 - sign up/registration, install mongodb 
